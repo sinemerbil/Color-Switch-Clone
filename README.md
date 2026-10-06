@@ -49,17 +49,6 @@ Bu proje sayesinde:
 
 pratik ettim.
 
-## 🚀 Gelecekte Eklenebilecekler
-
-- Ana menü
-- En yüksek skor kaydetme sistemi
-- Ses efektleri ve arka plan müziği
-- Yeni engel türleri
-- Yeni oyun modları
-- Görsel efektlerin geliştirilmesi
-- Geliştirilmiş kullanıcı arayüzü
-- Daha fazla oyun mekaniği
-
 ## 📌 Proje Durumu
 
 **Tamamlandı**
